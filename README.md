@@ -37,10 +37,7 @@
 
 - **Problem Solving**: Overcoming challenges related to 3D graphics and game logic implementation.
 
----
 
-# ➡️ Screenshots
-![image](https://mathis.peyre.info/assets/wip.jpg)
 
 ---
 
